@@ -13,6 +13,7 @@
 
 - 🏢 I'm a 1st Year Software Engineering Student At ISIM GABES 
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
+- Added to that i'm Competetive Programmer who seek always to solve more algorthmic  problems 
 
 
 ### Connect with Me :
